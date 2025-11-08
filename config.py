@@ -1,0 +1,1 @@
+ACTIONS = ["open_browser", "search_web", "take_screenshot", "make_call", "run_terminal_command", "default"]
